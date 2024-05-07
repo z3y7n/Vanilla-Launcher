@@ -1,6 +1,6 @@
 <p align="center"><img src="images/icon.png" alt="icon-launcher"></p>
 
-<h1 align="center">CraftLaunch</h1>
+<h1 align="center">Vanilla</h1>
 
 #### [<p align="center">]() *(A powerful and efficient minecraft launcher based on electron)*
 [<p align="center">]()
@@ -32,7 +32,7 @@
 <img src="images/5.png" alt="screenshot5"><p align="center"> *Account management page*
 
 &nbsp;
-<img src="images/1.png" alt="screenshot8"><p align="center"> *Login page*
+<img src="images/1.png" alt="screenshot2"><p align="center"> *Login page*
 
 ---
 

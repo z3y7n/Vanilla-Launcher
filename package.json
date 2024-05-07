@@ -1,20 +1,20 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "2.0.5",
+    "name": "Vanilla-Launcher",
+    "preductname": "Vanilla Launcher",
+    "version": "1.20.1",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
-        "email": "contact@luuxis.fr",
-        "url": "https://github.com/luuxis"
+        "name": "z3y7n, Mathouyo Inc.",
+        "email": "m.crozat4@gmail.com",
+        "url": "https://github.com/z3y7n"
     },
-    "url": "http://launcher.luuxis.fr",
+    "url": "http://Vanilla.luuxis.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/luuxis/Selvania-Launcher/master/src/assets/images/icon.png"
+        "icon": "node build.js --icon=https://media.istockphoto.com/id/1324559790/vector/letter-v-logo-design-vector.jpg?s=612x612&w=0&k=20&c=X7biVXFx99uErmKZYrB-AqmjN9XVaATGNvJpbDVvMzs="
     },
     "license": "CCANC",
     "nodemonConfig": {
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/z3y7n/Vanilla-Launcher.git"
     }
 }
